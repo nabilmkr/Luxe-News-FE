@@ -1,4 +1,4 @@
-# Luxe NEWS Gaming News Portal
+# LUXENEWS Gaming News Portal
 
 A modern web application for gaming news, reviews, and tournament information built with React and Vite.
 
